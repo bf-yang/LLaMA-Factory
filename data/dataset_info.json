@@ -1,4 +1,46 @@
 {
+  "cab_train_sft":{
+    "file_name": "/home/bufang/ContextAgent/data/cab/cab_train_sft.json"
+  },
+  "cab_train_sft_wo_t":{
+    "file_name": "/home/bufang/ContextAgent/data/cab/cab_train_sft_wo_t.json"
+  },  
+  "cab_train_sft_wo_p":{
+    "file_name": "/home/bufang/ContextAgent/data/cab/cab_train_sft_wo_p.json"
+  },  
+  "cab_train_sft_wo_t_wo_p":{
+    "file_name": "/home/bufang/ContextAgent/data/cab/cab_train_sft_wo_t_wo_p.json"
+  },
+
+
+  "cab_lite_train_sft":{
+    "file_name": "/home/bufang/ContextAgent/data/cab_lite/cab_lite_train_sft.json"
+  },
+  "cab_lite_train_sft_wo_t":{
+    "file_name": "/home/bufang/ContextAgent/data/cab_lite/cab_lite_train_sft_wo_t.json"
+  },  
+  "cab_lite_train_sft_wo_p":{
+    "file_name": "/home/bufang/ContextAgent/data/cab_lite/cab_lite_train_sft_wo_p.json"
+  },  
+  "cab_lite_train_sft_wo_t_wo_p":{
+    "file_name": "/home/bufang/ContextAgent/data/cab_lite/cab_lite_train_sft_wo_t_wo_p.json"
+  },
+
+
+  "cab_ood_train_sft":{
+    "file_name": "/home/bufang/ContextAgent/data/cab_ood/cab_ood_train_sft.json"
+  },
+  "cab_ood_train_sft_wo_t":{
+    "file_name": "/home/bufang/ContextAgent/data/cab_ood/cab_ood_train_sft_wo_t.json"
+  },  
+  "cab_ood_train_sft_wo_p":{
+    "file_name": "/home/bufang/ContextAgent/data/cab_ood/cab_ood_train_sft_wo_p.json"
+  },  
+  "cab_ood_train_sft_wo_t_wo_p":{
+    "file_name": "/home/bufang/ContextAgent/data/cab_ood/cab_ood_train_sft_wo_t_wo_p.json"
+  },
+
+
   "identity": {
     "file_name": "identity.json"
   },
